@@ -4,13 +4,13 @@
 	<parent>
 		<artifactId>mul-mod</artifactId>
 		<groupId>com.test</groupId>
-		<version>10.1-SNAPSHOT</version>
+		<version>123.0</version>
 	    <relativePath>../mul-mod-parent/pom.xml</relativePath> 
 	</parent>
 	
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod-add</artifactId>
-	<version>10.1-SNAPSHOT</version>
+	<version>123.0</version>
 	
 	<name>MUL-MOD-add</name>
 
