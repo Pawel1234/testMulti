@@ -4,12 +4,12 @@
 	<parent>
 		<artifactId>mul-mod</artifactId>
 		<groupId>com.test</groupId>
-		<version>10.0</version>
+		<version>10.1-SNAPSHOT</version>
 		<relativePath>../mul-mod-parent/pom.xml</relativePath> 
 	</parent>
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod-con</artifactId>
-	<version>10.0</version>
+	<version>10.1-SNAPSHOT</version>
 	<name>MUL-MOD-con</name>
 		
 	<dependencies>
