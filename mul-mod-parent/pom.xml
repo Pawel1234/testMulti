@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.test</groupId>
 	<artifactId>mul-mod</artifactId>
-	<version>123.0</version>
+	<version>123.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>MUL-MOD</name>
    
@@ -10,7 +10,7 @@
    <scm>
     <connection>scm:git:https://github.com/Pawel1234/testMulti.git</connection>
     <developerConnection>scm:git:https://github.com/Pawel1234/testMulti.git</developerConnection>
-      <tag>v123.0</tag>
+      <tag>HEAD</tag>
   </scm>
   
 	<modules>
