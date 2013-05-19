@@ -12,6 +12,14 @@
 	<artifactId>mul-mod-core</artifactId>
 	<version>123.2-SNAPSHOT</version>
 
+	<groupId>com.test</groupId>
+	<artifactId>mul-mod-con</artifactId>
+	<version>123.2-SNAPSHOT</version>
+	
+	<groupId>com.test</groupId>
+	<artifactId>mul-mod-add</artifactId>
+	<version>123.2-SNAPSHOT</version>
+	
 	<name>MUL-MOD-core</name>
 
 </project>
